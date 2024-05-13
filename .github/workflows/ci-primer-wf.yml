@@ -13,7 +13,7 @@ jobs:
 
       - name: Display the path
         run: |  
-                nooooooode --version
+                node --version
                 npm --version
                 pwd
                 cat /etc/os-release
